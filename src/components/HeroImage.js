@@ -15,8 +15,8 @@ const HeroImage = () => {
             <p>HI,I M A FREELANCER.</p>
             <h1>React Developer. </h1>
             <div>
-                <Link to="/projects" className='btn' >Projects</Link>
-                <Link to="/contacts" className='btn btn-light' >Contact</Link>
+                <Link to="/project" className='btn' >Projects</Link>
+                <Link to="/contact" className='btn btn-light' >Contact</Link>
 
             
             </div>

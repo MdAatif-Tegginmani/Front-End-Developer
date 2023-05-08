@@ -1,6 +1,6 @@
 .footer{
     width: 100%;
-    padding: 6rem 0;
+    padding: 2rem 0;
     background-color: rgba(19 , 19, 19, 0.8);
 }
 
@@ -47,6 +47,11 @@
     margin-top: 1rem ;
 
 
+
+}
+
+.social a {
+    margin-inline: 25px;
 }
 
 h4{
