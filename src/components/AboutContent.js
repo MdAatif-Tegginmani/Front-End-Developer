@@ -10,12 +10,13 @@ const AboutContent = () => {
         <div className='about'>
             <div className='left'>
                 <h1>Md Aatif Tegginamani </h1>
-                <p>I'm a front end developer with a year of experience in web development.  I'm passionate about creating great user experiences and have a strong understanding of usability and accessibility standards .</p>
+                <p>I'm a front end developer with a year of experience in web development. I'm passionate about creating great user experiences and have a strong understanding of usability and accessibility standards.</p>
 
                 <Link to='/contact'>
                     <button className='btn'>Contact</button>
 
                 </Link>
+                
 
             </div>
 

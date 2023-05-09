@@ -33,10 +33,12 @@ const Footers = () => {
                     />
                     </a>
                             
-                    
+                        <a href="https://twitter.com/vilen_84" target='_blank' rel='noreferrer'>
                         <FaTwitter size={30} style={{ color: "#fff", marginRight: "1rem" }} />
-
-                        <FaLinkedin size={30} style={{ color: "#fff", marginRight: "1rem" }} />
+                        </a>
+                         <a href="https://www.linkedin.com/in/mdaatif/" target='_blank' rel='noreferrer' >
+                         <FaLinkedin size={30} style={{ color: "#fff", marginRight: "1rem" }} />
+                         </a>   
 
 
                     </div>
