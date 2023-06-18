@@ -1,13 +1,13 @@
-import travel from '../assets/travel.png'
+import dash from '../assets/admin-dash.png'
 import todo from '../assets/todo.png'
 import textutils from '../assets/textutils.png'
 
 const ProjectCardData =[
     {
-        imgsrc:travel ,
-        title: "Travel App" ,
-        text:"The project makes use of the React.js framework to create a dynamic and responsive userinterface using Tailwind for Css. " ,
-        view:"https://traveldemo.vercel.app/" 
+        imgsrc:dash ,
+        title: "Admin dashboard" ,
+        text:" The Next.js and Tailwind CSS dashboard offers a sleek, user-friendly interface for data visualization and management, combining efficiency and modern design for monitoring key metrics" ,
+        view:"https://dashboard-aaenrhh93-mdaatif-tegginmani.vercel.app/" 
 
     } ,
     
@@ -22,7 +22,7 @@ const ProjectCardData =[
         imgsrc:textutils ,
         title: "TextUtils" ,
         text:"The TextUtils app is designed to provide various text manipulation tools for customizing text. It allows users to perform functions such as formatting, converting, and analyzing text with ease." ,
-        view:"https://textutils-sand-eight.vercel.app/"
+        view:"https://textutils-one-peach.vercel.app/"
     },
 ]
 
